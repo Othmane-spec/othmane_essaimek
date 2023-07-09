@@ -55,24 +55,25 @@ const about = () => {
               </h2>
               <p className="font-medium">
                 Bonjour, je suis Essaimek Othmane, développeur web et concepteur
-                d’interface utilisateur/UX avec une passion pour la création de
-                belles expériences numériques, fonctionnelles et centrées sur
-                l’utilisateur. Avec 4 ans d’expérience dans le domaine. Je suis
-                toujours à la recherche de nouvelles et innovantes façons de
-                donner vie à la vision de mes clients.
+                d&apos;interface utilisateur/UX avec une passion pour la
+                création de belles expériences numériques, fonctionnelles et
+                centrées sur l&apos;utilisateur. Avec 4 ans d&apos;expérience
+                dans le domaine. Je suis toujours à la recherche de nouvelles et
+                innovantes façons de donner vie à la vision de mes clients.
               </p>
               <p className=" my-4 font-medium">
                 Je crois que le design est plus que juste faire les choses
-                ressemblent joli – il s’agit de résoudre des problèmes et de
-                créer de l’intuition, expériences agréables pour les
+                ressemblent joli il s&apos;agit de résoudre des problèmes et de
+                créer de l&apos;intuition, expériences agréables pour les
                 utilisateurs.
               </p>
               <p className="font-medium">
                 Que je travaille sur un site Web, une application mobile ou
-                autre outil numérique produit, j’apporte mon engagement à
-                l’excellence du design et pensée axée sur l’utilisateur à chaque
-                projet sur lequel je travaille. Je regarde l’occasion de mettre
-                mes compétences et ma passion au service votre prochain projet.
+                autre outil numérique produit, j&apos;apporte mon engagement à
+                l&apos;excellence du design et pensée axée sur
+                l&apos;utilisateur à chaque projet sur lequel je travaille. Je
+                regarde l&apos;occasion de mettre mes compétences et ma passion
+                au service votre prochain projet.
               </p>
             </div>
             <div
